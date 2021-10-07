@@ -1,7 +1,7 @@
 ### Hello, I'm Samik Maharjan 👋
 
 - 🌱 I’m currently learning Flutter with Firebase.
-- 📫 How to reach me: Instagram: @samik_maharjan
+- 📫 How to reach me: Instagram: [Instagram - samik_maharjan](https://www.instagram.com/samik_maharjan/)
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
