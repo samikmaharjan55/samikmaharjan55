@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samik Maharjan</h1>
 <h3 align="center">I am a Mobile Application Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samikmaharjan55&label=Profile%20views&color=0e75b6&style=flat" alt="samikmaharjan55" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samikmaharjan55" alt="samikmaharjan55" /></a> </p>
-
 - 🔭 I’m currently working on **NHS.**
 
 - 🌱 I’m currently learning **Flutter with Firebase.**
@@ -26,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samikmaharjan55&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=58D68D&text_color=daf7dc&bg_color=151515" alt="samikmaharjan55" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samikmaharjan55&&show_icons=true&title_color=ffffff&icon_color=58D68D&text_color=daf7dc&bg_color=151515" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samikmaharjan55&" alt="samikmaharjan55" /></p>
