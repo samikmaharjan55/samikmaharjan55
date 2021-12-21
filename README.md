@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter with Firebase.**
 
-- 📝 I regularly write articles on [https://samikmaharjan55.blogspot.com](https://samikmaharjan55.blogspot.com)
+- 📝 I write articles on [https://samikmaharjan55.blogspot.com](https://samikmaharjan55.blogspot.com)
 
 - 📫 How to reach me **samikmaharjan55@gmail.com**
 
