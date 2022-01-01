@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NHS.**
 
-- 🌱 I’m currently learning **Flutter with Firebase.**
+- 🌱 I’m currently learning **Flutter Application Development.**
 
 - 📝 I write articles on [https://samikmaharjan55.blogspot.com](https://samikmaharjan55.blogspot.com)
 
