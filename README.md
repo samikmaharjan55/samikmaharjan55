@@ -7,7 +7,7 @@
 
 - I write articles on [https://samikmaharjan55.blogspot.com](https://samikmaharjan55.blogspot.com)
 
-- My Portfolio on [https://samikmaharjan55.github.io](https://samikmaharjan55.github.io)
+- My Portfolio on [http://samikmaharjan.com.np](http://samikmaharjan.com.np)
 
 <!-- - 📫 How to reach me **samikmaharjan55@gmail.com** -->
 
