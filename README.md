@@ -5,9 +5,9 @@
 
 - I’m currently learning **Flutter Application Development.**
 
-- I write articles on [https://samikmaharjan55.blogspot.com](https://samikmaharjan55.blogspot.com)
+<!-- - I write articles on [https://samikmaharjan55.blogspot.com](https://samikmaharjan55.blogspot.com) -->
 
-- My Portfolio on [http://samikmaharjan.com.np](http://samikmaharjan.com.np)
+<!-- - My Portfolio on [https://samikmaharjan.com.np](https://samikmaharjan.com.np) -->
 
 <!-- - 📫 How to reach me **samikmaharjan55@gmail.com** -->
 
