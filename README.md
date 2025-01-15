@@ -23,3 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samikmaharjan55&&show_icons=true&title_color=ffffff&icon_color=58D68D&text_color=daf7dc&bg_color=151515" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samikmaharjan55&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=58D68D&text_color=daf7dc&bg_color=151515" alt="samikmaharjan55" /></p>
+
+<p align="center">
+  <img src="https://streak-stats.vercel.app/?user=samikmaharjan55" alt="GitHub Streak" />
+</p>
